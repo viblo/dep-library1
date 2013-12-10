@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/viblo/dep-library1",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BurntSushi/toml",
+			"Rev": "2dff11163ee667d51dcc066660925a92ce138deb"
+		}
+	]
+}
